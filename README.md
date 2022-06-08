@@ -20,6 +20,7 @@ Compile
 touch a.c
 vi a.c
 clang a.c
+clang++ a.cpp
 ./a.out
 ctrl+c
 
